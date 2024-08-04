@@ -1,0 +1,13 @@
+{
+  "id" : "https://nakamura196.github.io/nakamura196/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in nakamura196/nakamura196 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://nakamura196.github.io/nakamura196/manifests/manifest.json",
+    "label" : "(沖縄県博所蔵)琉球国図"
+  } ]
+}
